@@ -1,0 +1,4 @@
+baseURL = 'https://technicam.github.io/TestGyroSite'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'ananke'
